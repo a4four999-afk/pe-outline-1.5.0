@@ -11,6 +11,8 @@
 
 **pe 2 blender · 独立同步插件 1.0.0**
 在两个插件分别按照说明安装插件，然后即可从blender点击同步到pe
+<img width="1606" height="681" alt="image" src="https://github.com/user-attachments/assets/caf8feee-aba1-46d3-8632-db2d6b2820ad" />
+
 
 作者：A4four
 
