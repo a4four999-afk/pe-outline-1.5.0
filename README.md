@@ -1,4 +1,4 @@
-# pe-outline-1.5.0
+# pe-outline-1.5.1             &**pe 2 blender · 独立同步插件 1.0.0**
 
 **blender插件：类似pe大纲**
 
